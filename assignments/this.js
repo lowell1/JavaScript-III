@@ -8,7 +8,7 @@
 *
 * write out a code example of each explanation above
 */
-
+console.log("---------------Git.js-----------------");
 // Principle 1
 
 // code example for Window Binding
